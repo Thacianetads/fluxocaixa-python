@@ -41,7 +41,7 @@ O script oferece um menu interativo via terminal, onde você pode:
   2 - Adicionar despesa
 
   #Digite outro numero para encerrar#
-  
+  /n
 
   Digite a opcao: 1
 
