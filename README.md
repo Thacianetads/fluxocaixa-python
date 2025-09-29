@@ -40,7 +40,7 @@ O script oferece um menu interativo via terminal, onde você pode:
 
   2 - Adicionar despesa
 
-# Digite outro numero para encerrar #
+  # Digite outro numero para encerrar #
 
   Digite a opcao: 1
 
@@ -50,17 +50,17 @@ O script oferece um menu interativo via terminal, onde você pode:
 
   Digite a opcao: 2
 
-Nome: Aluguel
+  Nome: Aluguel
 
-Valor: -1200
+  Valor: -1200
 
-Digite a opcao: 9
+  Digite a opcao: 9
 
-Nome: Salário , Valor: R$ 3000.0
+  Nome: Salário , Valor: R$ 3000.0
 
-Nome: Aluguel , Valor: R$ -1200.0
+  Nome: Aluguel , Valor: R$ -1200.0
 
-Saldo atual: R$ 1800.0
+  Saldo atual: R$ 1800.0
 
 # 📁 Estrutura do Código
 
