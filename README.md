@@ -48,11 +48,13 @@ O script oferece um menu interativo via terminal, onde você pode:
 
   Valor: 3000
 
+
   Digite a opcao: 2
 
   Nome: Aluguel
 
   Valor: -1200
+
 
   Digite a opcao: 9
 
