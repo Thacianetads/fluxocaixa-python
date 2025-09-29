@@ -39,23 +39,23 @@ O script oferece um menu interativo via terminal, onde você pode:
   1 - Adicionar receita
 
   2 - Adicionar despesa
-
+  _____________
   #Digite outro numero para encerrar#
-  
+  _____________  
 
   Digite a opcao: 1
 
   Nome: Salário
 
   Valor: 3000
-
+  _____________
 
   Digite a opcao: 2
 
   Nome: Aluguel
 
   Valor: -1200
-
+  _____________
 
   Digite a opcao: 9
 
