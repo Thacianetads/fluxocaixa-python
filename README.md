@@ -37,22 +37,29 @@ ____________
 @ Fluxo caixa
 ____________
 1 - Adicionar receita
+
 2 - Adicionar despesa
 
 # Digite outro numero para encerrar #
 
 Digite a opcao: 1
+
 Nome: Salário
+
 Valor: 3000
 
 Digite a opcao: 2
+
 Nome: Aluguel
+
 Valor: -1200
 
 Digite a opcao: 9
 
 Nome: Salário , Valor: R$ 3000.0
+
 Nome: Aluguel , Valor: R$ -1200.0
+
 Saldo atual: R$ 1800.0
 
 # 📁 Estrutura do Código
