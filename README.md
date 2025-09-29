@@ -33,22 +33,22 @@ O script oferece um menu interativo via terminal, onde você pode:
 - Execute o arquivo via terminal: python main.py
 
 # 💻 Exemplo de uso
-____________
-@ Fluxo caixa
-____________
-1 - Adicionar receita
+  ____________
+  @ Fluxo caixa
+  ____________
+  1 - Adicionar receita
 
-2 - Adicionar despesa
+  2 - Adicionar despesa
 
-# Digite outro numero para encerrar #
+  # Digite outro numero para encerrar #
 
-Digite a opcao: 1
+  Digite a opcao: 1
 
-Nome: Salário
+  Nome: Salário
 
-Valor: 3000
+  Valor: 3000
 
-Digite a opcao: 2
+  Digite a opcao: 2
 
 Nome: Aluguel
 
