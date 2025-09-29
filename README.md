@@ -20,7 +20,7 @@ O script oferece um menu interativo via terminal, onde você pode:
 
 2. Adicionar uma despesa
 
-3.Encerrar o programa e exibir o resumo do fluxo de caixa
+3. Encerrar o programa e exibir o resumo do fluxo de caixa
 
 4. Cada transação inclui um nome (descrição) e um valor. Ao encerrar, o programa imprime todas as transações e o saldo atual.
 
